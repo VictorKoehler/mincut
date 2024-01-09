@@ -5,4 +5,5 @@ This repository contains the appendix and other attachments related to the artic
 Files:
 - [Appendix A (G4 Instances Generator Algorithm)](appendix_a.pdf)
 - [Appendix B (Detailed results for G4)](appendix_b.pdf)
-- [Instances files](instances/)
+- [Repository)](https://github.com/VictorKoehler/mincut)
+- [Instances files (on repository)](https://github.com/VictorKoehler/mincut/tree/master/instances/)
